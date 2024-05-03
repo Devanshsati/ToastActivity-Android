@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Toast Activity</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="fancy_button1">Fancy Button1</string>
+    <string name="fancy_button2">Fancy Button2</string>
+    <string name="fancy_button3">Fancy Button3</string>
+    <string name="fancy_button4">Fancy Button4</string>
+    <string name="fancy_button5">Fancy Button5</string>
+    <string name="fancy_button6">Fancy Button6</string>
+    <string name="fancy_button7">Fancy Button7</string>
+    <string name="motion_button1">Motion 01</string>
+    <string name="motion_button2">Motion 02</string>
+    <string name="motion_button3">Motion 03</string>
+    <string name="motion_button4">Motion 04</string>
+    <string name="motion_button5">Motion 05</string>
+    <string name="motion_button6">Motion 06</string>
+    <string name="motion_button7">Motion 07</string>
+    <string name="motion_button8">Motion 08</string>
+    <string name="motion_button9">Motion 09</string>
+    <string name="motion_button10">Motion 10</string>
+    <string name="motion_button11">Motion 11</string>
+    <string name="motion_button12">Motion 12</string>
+    <string name="motion_button13">Motion 13</string>
+    <string name="motion_button14">Motion 14</string>
+    <string name="motion_button15">Motion 15</string>
+    <string name="motion_button16">Motion 16</string>
+    <string name="motion_button17">Motion 17</string>
+    <string name="motion_button18">Motion 18</string>
+    <string name="motion_button19">Motion 19</string>
+    <string name="motion_button20">Motion 20</string>
+</resources>
