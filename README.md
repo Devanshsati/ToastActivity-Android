@@ -48,7 +48,7 @@ This package relies on the following external libraries:
 
 ### Author:
 
-This package was created by `com.example` for educational and demonstration purposes.
+This package was created by `DEVANSH SATI` for educational and demonstration purposes.
 
 ### License:
 
